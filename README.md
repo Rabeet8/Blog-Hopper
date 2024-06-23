@@ -1,4 +1,4 @@
-# blog hopper README
+# Blog Hopper README
 
 A basic vs-code extension that will help you to search articles published on this link through your vscode.
 
